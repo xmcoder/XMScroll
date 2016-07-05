@@ -13,28 +13,15 @@ I like to use the most convenient wording to implement a demand function, which 
 ![gif](https://github.com/xmcoder/XMScroll/blob/master/gif.gif)
 
 
-### Method
-
-```
-ViewController.m
-
-- (void)xm_setUpUI {
-    XMScrollModel *model = [[XMScrollModel alloc] initWithURLArray:_xm_urls];
-    model.frame = CGRectMake(0, 0, self.view.bounds.size.width, SCROLL_MODEL_HEIGHT);
-    model.center = CGPointMake(self.view.center.x, SCROLL_MODEL_HEIGHT * 0.5);
-    
-    [self.view addSubview:model];
-}
-
-如果想替换轮播图片 请直接拖进项目进行替换即可
-
-```
 
 ### Level
 
-![gif](https://github.com/xmcoder/XMScroll/blob/master/gif.gif)
+![level](https://github.com/xmcoder/XMScroll/blob/master/class.tiff)
 
 
 ### Principle
 
-![gif](https://github.com/xmcoder/XMScroll/blob/master/gif.gif)
+![principle](https://github.com/xmcoder/XMScroll/blob/master/scroll.tiff)
+
+
+如果想替换轮播图片，请把图片直接拖进项目进行替换即可。
