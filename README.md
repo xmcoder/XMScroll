@@ -29,3 +29,12 @@ ViewController.m
 如果想替换轮播图片 请直接拖进项目进行替换即可
 
 ```
+
+### Level
+
+![gif](https://github.com/xmcoder/XMScroll/blob/master/gif.gif)
+
+
+### Principle
+
+![gif](https://github.com/xmcoder/XMScroll/blob/master/gif.gif)
