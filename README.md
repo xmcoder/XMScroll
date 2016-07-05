@@ -16,12 +16,12 @@ I like to use the most convenient wording to implement a demand function, which 
 
 ### Level
 
-![level](https://github.com/xmcoder/XMScroll/blob/master/class.tiff)
+![level](https://github.com/xmcoder/XMScroll/blob/master/class.png)
 
 
 ### Principle
 
-![principle](https://github.com/xmcoder/XMScroll/blob/master/scroll.tiff)
+![principle](https://github.com/xmcoder/XMScroll/blob/master/scroll.png)
 
 
 如果想替换轮播图片，请把图片直接拖进项目进行替换即可。
