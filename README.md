@@ -7,6 +7,6 @@ I like to use the most convenient wording to implement a demand function, which 
 
 ### Demo
 
-![gif icon](/Users/MK/Desktop/Qiao/03Demo/MKScrollBanner/XMScrollBanner/gif.gif)
+![gif icon](https://github.com/xmcoder/XMScroll/blob/master/gif.gif)
 
 
